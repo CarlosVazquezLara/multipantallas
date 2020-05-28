@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">multiventanas</string>
+    <string name="tipocelular">Celular</string>
+    <string name="vhorizontal">Horizontal</string>
+    <string name="vvvertical">Vertical</string>
+    <string name="logotecn">TecNaMe</string>
+    <string name="logotesoem">Tesoem</string>
+    <string name="tableta">Tableta</string>
+</resources>
